@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:  https://github.com/chaseneff/qr-code-challenge
+- Live Site URL: https://qr-code-challenge-chase-neff.netlify.app/
 
 
 ### Built with
@@ -42,7 +42,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 Became more knowledgeable about Flexbox and the general layout of how CSS works. Helped me understand selectors, and specificity in closer detail as well. I'm excited to try new challenges.
 
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@chaseneff](https://www.frontendmentor.io/profile/yourusername)
+- Twitter - [@chaseneffdev](https://www.twitter.com/yourusername)
 
 
